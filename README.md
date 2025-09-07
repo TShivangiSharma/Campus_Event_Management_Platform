@@ -41,11 +41,11 @@ Example endpoints:
 GET /events → Get all events
 POST /register → Register a student for an event
 
-https://github.com/user-attachments/assets/f530900e-dc51-4088-b92f-6007b5e68260
+<img width="774" height="376" alt="image" src="https://github.com/user-attachments/assets/f530900e-dc51-4088-b92f-6007b5e68260" />
 
 
 overall look :
-"https://github.com/user-attachments/assets/7c7655eb-fcd0-44fd-8d87-4a0cf8434090" 
+<img width="774" height="376" alt="image" src="https://github.com/user-attachments/assets/7c7655eb-fcd0-44fd-8d87-4a0cf8434090" />
 
 we can also test the api points on postman 
 
@@ -72,7 +72,8 @@ Features?
 
 i used vercel for the frontend :
 
-"https://github.com/user-attachments/assets/a1e1486b-9fdc-4413-8ce7-f53999c4d487"
+<img width="774" height="376" alt="image" src="https://github.com/user-attachments/assets/a1e1486b-9fdc-4413-8ce7-f53999c4d487" />
+
 
 
 
