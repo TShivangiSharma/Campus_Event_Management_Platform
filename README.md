@@ -56,5 +56,9 @@ Features?
 ->Navbar with pages for Events, Attendance, Feedback, and Reports
 ->Responsive UI using TailwindCSS
 
+STEP BY STEP :
+
+
+
 
 This project is a working prototype — additional features like attendance tracking, feedback collection, and advanced reports can be added later
